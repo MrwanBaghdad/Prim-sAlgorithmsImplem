@@ -1,0 +1,6 @@
+C:\Users\Marwan\Documents\Visual Studio 2013\Projects\Prim's Algorithm\Prim's Algorithm\obj\Debug\Prim's Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\Marwan\Documents\Visual Studio 2013\Projects\Prim's Algorithm\Prim's Algorithm\bin\Debug\Prims Algorithm.exe.config
+C:\Users\Marwan\Documents\Visual Studio 2013\Projects\Prim's Algorithm\Prim's Algorithm\bin\Debug\Prims Algorithm.exe
+C:\Users\Marwan\Documents\Visual Studio 2013\Projects\Prim's Algorithm\Prim's Algorithm\bin\Debug\Prims Algorithm.pdb
+C:\Users\Marwan\Documents\Visual Studio 2013\Projects\Prim's Algorithm\Prim's Algorithm\obj\Debug\Prims Algorithm.exe
+C:\Users\Marwan\Documents\Visual Studio 2013\Projects\Prim's Algorithm\Prim's Algorithm\obj\Debug\Prims Algorithm.pdb
